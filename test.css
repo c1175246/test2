@@ -1,0 +1,41 @@
+h1{
+  color:yellow;
+}
+.box1 {
+  max-width: fit-content;
+  padding: 3px;
+  margin: 2em;
+  font-weight: bold;
+  border: solid 3px #000000;
+  text-align: center;
+  
+}
+.box1 p {
+  margin: 0; 
+  padding: 0;
+}
+
+.box2{
+  left: 200px;
+  position: absolute;
+}
+.box2 li{
+  font-size: 20px;
+  max-width: fit-content;
+  font-weight: bold;
+  color: #6091d3;/*文字色*/
+  background: #FFF;
+  border: solid 3px #6091d3;/*線*/
+  border-radius: 10px;/*角の丸み*/
+  display: inline-block;
+}
+
+.box2 p {
+  margin: 0; 
+  padding: 0;
+}
+th,td{
+  border: 1px #000 solid;
+}
+
+
